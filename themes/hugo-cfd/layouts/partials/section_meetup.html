@@ -1,0 +1,27 @@
+{{- $section_meetup := .Site.Params.section_meetup }}
+{{- $date    := index $section_meetup "date" }}
+{{- $place    := index $section_meetup "place" }}
+{{- $timeslot := index $section_meetup "timeslot" }}
+{{- $meetup_link  := index $section_meetup "meetup_link" }}
+<section class="section section-light-grey is-medium">
+  <div class="container has-text-centered">
+          <h2 class="title is-2 is-spaced">Wir treffen uns monatlich - Sei dabei!</h2>
+          <div class="divider is-centered is-spaced"></div>
+          <br/>
+      <h2 class="title is-3 is-spaced">Nächster Termin: {{ $date }}</h2>
+      <h3 class="subtitle is-5">Wo? {{ $place }}</h3>
+      <h3 class="subtitle is-5">Wann? {{ $timeslot }}</h3>
+      <p>
+                      <a class="button cta is-large secondary-btn raised is-clear" href="{{ $meetup_link }}"->Anmelden über Meetup</a>
+      </p>
+
+    <div class="content-wrapper">
+
+
+
+
+
+
+    </div>
+  </div>
+</section>

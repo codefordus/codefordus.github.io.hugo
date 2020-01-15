@@ -1,0 +1,139 @@
+baseURL: https://codefordus.github.io
+languageCode: de-de
+title: Code for Düsseldorf
+theme: hugo-cfd
+#Disables warnings
+disableKinds:
+ -taxonomy
+ -taxonomyTerm
+pluralizeListTitles: false
+frontmatter:
+  date: [":filename", ":default"]
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+params:
+ # Open graph allows easy social sharing. If you don't want it you can set it to false or just delete the variable
+  openGraph: true
+  # Used as meta data; describe your site to make Google Bots happy
+  description:
+  navbarlogo:
+   image: /img/CFD_logo_32.svg #/img/dus-logo-2020_rot.svg
+   link: /
+  font:
+    name: "Open Sans"
+    sizes: [400,600]
+  hero:
+    # Main hero title
+    title: Code for Düsseldorf
+    # Hero subtitle (optional)
+    subtitle: Wir sind das offene Stadtlabor für Düsseldorf und bauen digitale Werkzeuge für unsere Stadt!
+    # Button text
+    buttontext: Werde Stadtentwickler*in!
+    # Where the main hero button links to
+    buttonlink: "mitmachen"
+    # Hero image (from static/images/___)
+    image: illustrations/dus-logo-2020_rot_textpath.svg
+    # Footer logos (from static/images/logos/clients/___.svg)
+    #clientlogos:
+    #- systek
+    #- tribe
+    #- kromo
+    #- infinite
+    #- gutwork
+  # Customizable navbar. For a dropdown, add a "sublinks" list.
+  navbar:
+  - title: Über uns
+    url: /ueber-uns/
+  - title: Projekte
+    url: /projekte/
+  - title: Termine
+    url: /termine/
+  - title: Open Data Day 2020
+    url: /open-data-day-duesseldorf-2020/
+  - title: Mitmachen
+    sublinks:
+    - title: als Entwickler*in / Designer*in
+      url: /mitmachen/entwickeln-designen/
+    - title: als Vernetzer*in / Aktivist*in
+      url: /mitmachen/vernetzen/
+    - title: als Studierende*r / Lehrende*r
+      url: /mitmachen/bildung/
+    - title: aus Politik / Verwaltung
+      url: /mitmachen/politik-verwaltung/
+    - title: als Journalist*in / Blogger*in
+      url: /mitmachen/schreiben/
+    - title: als Unterstützer*in / Sponsor*in
+      url: /mitmachen/unterstuetzen/
+    - title: als Bürger*in
+      url: /mitmachen/gesellschaft/
+  - title: Kontakt
+    url: /kontakt/
+  - title: FAQ
+    url: /faq/
+  section2:
+    subtitle: Freie Software + Offene Daten = <3
+    title: open source + open data = <3
+    features:
+    - title: Offene Daten // Open Data
+      text: Offene Daten sind Daten, auf die alle Personen frei zugreifen können und die von allen genutzt, verändert und geteilt werden können. Sie werden in vielen Anwendungen erzeugt und gesammelt, beispielsweise in amtlichen Messungen oder wissenschaftlichen Experimenten.
+      # Icon (from /images/illustrations/icons/___.svg)
+      icon: laptop-globe
+    - title: Offene Verwaltung // Open Government
+      text: Politik und Verwaltung sollen geöffnet werden für Bürger*innen, Wirtschaft, Wissenschaft, Kunst und Kultur, um stärkere gemeinschaftliche Belange in einer Kommune zu ermöglichen. Im Fokus stehen dabei Transparenz, Partizipation und Kollaboration.
+      icon: doc-sync
+    - title: Zivilgesellschaftliche Technik // Civic Tech
+      text: Technische Konzepte können Engagement und Beteiligung von Bürgern fördern, beispielsweise durch entsprechende Kommunikationsplattformen, bessere öffentliche Infrastrukturen und technikbasierte Verbesserungen des Allgemeinwohls.
+      icon: mobile-feed
+  section_meetup:
+    date: 16. Januar 2020
+    place: Library Lab in der Zentralbibliothek der Stadtbüchereien Düsseldorf
+    timeslot: 18:00 - 20:00 Uhr
+    meetup_link: https://www.meetup.com/de-DE/OK-Lab-Dusseldorf/events/267912842/
+  footer:
+    logo: /img/CFD_logo_32.svg
+    # Social Media Title
+    socialmediatitle: Folge uns!
+    # Social media links (GitHub, Twitter, etc.). All are optional.
+    socialmedia:
+    - link: https://github.com/codefordus
+      # Icons are from Font Awesome
+      icon: github
+    - link: https://twitter.com/codefordus
+      icon: twitter
+    - link: https://facebook.com/codefordus
+      icon: facebook
+    bulmalogo: true
+    quicklinks:
+      column1:
+        title: "Rechtliches"
+        links:
+        - text: Impressum
+          link: /impressum/
+        - text: Datenschutz
+          link: /impressum/#datenschutzerklaerung
+        - text: OKF e.V.
+          link: https://okfn.de/
+      column2:
+        title: "Werkzeugkoffer"
+        links:
+        - text: Github (extern)
+          link: https://github.com/codefordus
+        - text: opendatahandbook.org
+          link: https://opendatahandbook.org/
+        - text: ABC der Offenheit
+          link: https://upload.wikimedia.org/wikipedia/commons/a/a9/ABC_der_Offenheit_-_Brosch%C3%BCre_%282019%29.pdf
+      column3:
+        title: "Über uns"
+        links:
+        - text: Wir über uns
+          link: /ueber-uns/
+        - text: Projekte
+          link: /projekte/
+        - text: Kontakt
+          link: /kontakt/
+        - text: Mitmachen
+          link: /mitmachen/

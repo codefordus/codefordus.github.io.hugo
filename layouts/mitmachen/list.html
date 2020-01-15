@@ -1,0 +1,13 @@
+{{ define "main" }}
+<section class="section is-medium">
+    <div class="container">
+        <h1 class="title section-title">{{ .Title }}</h1>
+        <h2 class="subtitle is-5 is-muted">{{ .Params.Subtitle }}</h2>
+        <div class="divider"></div>
+
+        <div class="content">
+            {{ .Content }}
+        </div>
+    </div>
+</section>
+{{ end }}
