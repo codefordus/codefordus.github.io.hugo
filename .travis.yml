@@ -5,7 +5,7 @@ dist: bionic
 
 install:
   - sudo apt-get --yes install snapd
-  - sudo snap install hugo
+  - sudo snap install hugo --channel=extended/stable
   - sudo apt-get install python3-pygments
   - git clone --recursive -j8 https://github.com/codefordus/codefordus.github.io.hugo.git
   - cd codefordus.github.io.hugo
