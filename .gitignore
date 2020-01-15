@@ -1,0 +1,9 @@
+# Hugo
+/public/
+/resources/
+
+# macOS
+.DS_Store
+
+# IDE
+/.idea/
