@@ -11,9 +11,9 @@ Wir treffen uns einmal im Monat persönlich zum Austausch über aktuelle Gescheh
 
 ## Über Code for Germany
 
-Code for Germany ist ein Programm der (<a href="https://okfn.de" target="_blank">Open Knowledge Foundation
-Deutschland</a>) in Partnerschaft mit (<a href="https://www.codeforamerica.org" target="_blank">Code For
-America</a>). Ziel des Programms ist es,
+Code for Germany ist ein Programm der <a href="https://okfn.de" target="_blank">Open Knowledge Foundation
+Deutschland</a> in Partnerschaft mit <a href="https://www.codeforamerica.org" target="_blank">Code For
+America</a>. Ziel des Programms ist es,
 Entwicklungen im Bereich Transparenz, Open Data und Civic Tech in
 Deutschland zu fördern.
 Gestartet ist das Programm im Februar 2014 mit der Gründung von Open
@@ -25,7 +25,7 @@ gestalten und die Arbeit von Verwaltungen und Behörden transparenter
 machen. Mittlerweile ist das Netzwerk auf 25 Labs angewachsen und
 umfasst eine Community von über 300 Freiwilligen.
 
-Code for Germany ist Teil der internationalen (<a href="https://codeforall.org" target="_blank">Code for
+Code for Germany ist Teil der internationalen <a href="https://codeforall.org" target="_blank">Code for
 All</a> Community, einem Netzwerk von Civic Tech
 Initiativen rund um dem Globus.
 
