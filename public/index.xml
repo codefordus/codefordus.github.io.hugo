@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Code for Düsseldorf</title>
+    <link>https://codefordus.github.io/</link>
+    <description>Recent content on Code for Düsseldorf</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Thu, 27 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://codefordus.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Trinkwasseranalyse</title>
+      <link>https://codefordus.github.io/projekte/trinkwasseranalyse/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://codefordus.github.io/projekte/trinkwasseranalyse/</guid>
+      <description>Visualisierung der Trinkwasser-Analysewerte der Stadtwerke Düsseldorf im Vergleich mit lokalem Mineralwasser und weiteren Mineralwässern.</description>
+    </item>
+    
+    <item>
+      <title>Häufige Fragen (Frequently Asked Questions)</title>
+      <link>https://codefordus.github.io/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://codefordus.github.io/faq/</guid>
+      <description>Diese Seite wird nach und nach um häufige Fragen ergänzt, die uns immer wieder gestellt werden oder von denen wir erfahren, dass sich diese vor einem Besuch im OK Lab gestellt werden.
+Was benötige ich um mitzumachen? Muss ich einen Laptop mitbringen? Notwendig bist nur Du selbst, am besten mit ein paar Ideen, Motivation und Fähigkeiten, mit denen wir gemeinsam Projekte angehen und (weiter-)entwickeln können. Ein Laptop ist keine Pflicht, manchmal jedoch ganz nützlich, wenn es um die Arbeit an konkreten Dingen geht.</description>
+    </item>
+    
+    <item>
+      <title>Impressum</title>
+      <link>https://codefordus.github.io/impressum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://codefordus.github.io/impressum/</guid>
+      <description>Vereinsadresse:  Open Knowledge Foundation Deutschland e.V. Singerstr. 109 10179 Berlin Deutschland  OpenStreetMap - Google Maps     Vereinsregister Nr.: VR 30468 B Umsatzsteuernummer: DE278022128   E-Mail: info@codefor.de Telefon: +49 30 57703666 0 Fax: +49 30 57703666 9   Community &amp; Projektmanagement: Michael Peters    Kontakt zu unserem Lab in Düsseldorf: Tobias Siebenlist   Haftungsausschluss Inhaltlich verantwortlich gemäß § 55 Abs. 2 RStV ist der jeweilige Autor eines Textes.</description>
+    </item>
+    
+    <item>
+      <title>Kontakt</title>
+      <link>https://codefordus.github.io/kontakt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://codefordus.github.io/kontakt/</guid>
+      <description>Du möchtest etwas über das OK Lab Düsseldorf wissen oder hast Fragen vor einem Besuch? Du kannst uns auf unterschiedlichen Wegen erreichen, diese sind nachfolgend kurz beschrieben. Der direkteste Weg ist per E-Mail an unser Lab Lead Tobias Siebenlist unter tobias@codeforduesseldorf.de.
+Unsere Kommunikationskanäle Wir nutzen unterschiedliche Kommunikationskanäle, um Informationen zu verbreiten oder miteinander in Kontakt zu bleiben. Die OK Labs benutzen einen Slack-Workspace der Open Knowledge Foundation Deutschland für die Kommunikation in den einzelnen Labs, der Labs untereinder sowie für den projektbezogenen Austausch.</description>
+    </item>
+    
+    <item>
+      <title>Mach mit bei Code for Düsseldorf!</title>
+      <link>https://codefordus.github.io/mitmachen/bildung/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://codefordus.github.io/mitmachen/bildung/</guid>
+      <description>Du brauchst Daten für ein Projekt an der Hochschule oder für eine Lehrveranstaltung und willst nicht immer die gleichen, langweiligen Standard-Datensätze nehmen? Dann nimm doch einfach offene Daten als Basis für dein Vorhaben und erschaffe im besten Fall daraus Mehrwerte, die auch anderen Menschen etwas nützen. Vielleicht möchtest Du dein Projekt / deine Materialien dann ja ebenfalls mit der Öffentlichkeit teilen und zeigen, was mit offenen Daten möglich ist.
+Schau einfach einmal bei einem der nächsten Treffen im OK Lab Düsseldorf vorbei oder melde dich bei uns.</description>
+    </item>
+    
+    <item>
+      <title>Mach mit bei Code for Düsseldorf!</title>
+      <link>https://codefordus.github.io/mitmachen/entwickeln-designen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://codefordus.github.io/mitmachen/entwickeln-designen/</guid>
+      <description>Du bist Softwareentwickler*in oder Designer*in und hast Lust mit Deinen Fähigkeiten Deine Nachbarschaft/Stadt/Umgebung positiv zu beeinflussen? Du kennst Leute, die Lust haben, mitzumachen? Egal welche Technologien Du beherrscht oder welche Arbeitsmethoden Du favorisiert - bringe deine Fähigkeiten und deine Motivation mit und gestalte gemeinsam etwas zusammen mit anderen.
+Schau einfach einmal bei einem der nächsten Treffen im OK Lab Düsseldorf vorbei oder melde dich bei uns. Hier findest Du weitere interessierte Personen, mit denen Du gemeinsam etwas für deine Stadt voranbringen kannst.</description>
+    </item>
+    
+    <item>
+      <title>Mach mit bei Code for Düsseldorf!</title>
+      <link>https://codefordus.github.io/mitmachen/gesellschaft/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://codefordus.github.io/mitmachen/gesellschaft/</guid>
+      <description>Wir wollen nicht nur Anwendungen für die Allgemeinheit schaffen, wir wollen auch, dass sie genutzt werden und dass darüber gesprochen wird. Die Zivilgesellschaft ist dabei Zielgruppe, Antreiber und Umsetzer in einem. Wir sind keine nerdige Codeschmiede, die nur von Programmierern aufgesucht wird - wir sind eine bunte Mischung von Menschen mit unterschiedlichsten Hintergründen und Fähigkeiten, welche die Movation und das Ziel teilen, gemeinsam etwas (digitales) für ihre Stadt zu entwickeln.</description>
+    </item>
+    
+    <item>
+      <title>Mach mit bei Code for Düsseldorf!</title>
+      <link>https://codefordus.github.io/mitmachen/politik-verwaltung/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://codefordus.github.io/mitmachen/politik-verwaltung/</guid>
+      <description>Kontakt und aktiver Austausch zwischen lokaler Verwaltung und Politik und den OK Labs ist sehr wichtig für den Erfolg des Programms. Daher laden wir Politiker*innen und Mitarbeiter*innen der lokalen Verwaltung ein, mit uns zusammenarbeiten. Gemeinsam können wir weitere Daten öffnen und die Rahmenbedingungen für offenes Regierungshandeln, Transparenz und Beteiligung verbessern. Interessierte Menschen aus Politik und Verwaltung können einfach mit unserem Lab in Kontakt treten.
+Schau einfach einmal bei einem der nächsten Treffen im OK Lab Düsseldorf vorbei oder melde dich bei uns.</description>
+    </item>
+    
+    <item>
+      <title>Mach mit bei Code for Düsseldorf!</title>
+      <link>https://codefordus.github.io/mitmachen/schreiben/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://codefordus.github.io/mitmachen/schreiben/</guid>
+      <description>Vielleicht nutzt Du selbst bereits offene Daten von Verwaltungen oder aus Projekten von Code for Germany für Deine journalistische Arbeit oder berichtest über interessante Erkenntnisse und Zusammenhänge, die durch solche Anwendungen offen gelegt werden.
+Du willst wissen, wie Offene Daten als Werkzeug bei der Recherche genutzt werden können und wie durch diese Daten Transparenz geschaffen werden kann? Komm&amp;rsquo; vorbei und erzähle uns von Deinen Projekten oder Ideen!
+Je mehr Menschen vom Projekt Code for Germany erfahren, desto besser!</description>
+    </item>
+    
+    <item>
+      <title>Mach mit bei Code for Düsseldorf!</title>
+      <link>https://codefordus.github.io/mitmachen/unterstuetzen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://codefordus.github.io/mitmachen/unterstuetzen/</guid>
+      <description>Damit das Projekt Code for Germany noch lange weiterlaufen kann, werden entsprechende Ressourcen benötigt. Die Open Knowledge Foundatin Deutschland ist eine Non-Profit-Organisation mit begrenztem Budget und auf Spenden angewiesen. Für Code for Germany sind wir auf der Suche nach Partnern und Unterstützern die gemeinsam mit uns die Entwicklungen in den Bereichen Civic Tech, Open Data und Transparenz in Deutschland vorantreiben möchten. Das Team in Berlin freut sich über eine kurze Nachricht!</description>
+    </item>
+    
+    <item>
+      <title>Mach mit bei Code for Düsseldorf!</title>
+      <link>https://codefordus.github.io/mitmachen/vernetzen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://codefordus.github.io/mitmachen/vernetzen/</guid>
+      <description>Wir wollen nicht nur Anwendungen für die Allgemeinheit schaffen, wir wollen auch, dass sie genutzt werden und dass darüber gesprochen wird. Wir suchen Leute, die dabei helfen, die Projekte aufzubereiten, Geschichten rund um die Anwendungen zu erzählen, sie zu erklären und Spaß an Öffentlichkeitsarbeit, Presse und Community-Aufbau haben. Trifft auf Dich zu? Dann hilf uns dabei, mehr Aufmerksamkeit für das Thema Open Data zu gewinnen!
+Schau einfach einmal bei einem der nächsten Treffen im OK Lab Düsseldorf vorbei oder melde dich bei uns.</description>
+    </item>
+    
+    <item>
+      <title>Open Data Day Düsseldorf 2020 (#ODDD20)</title>
+      <link>https://codefordus.github.io/open-data-day-duesseldorf-2020/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://codefordus.github.io/open-data-day-duesseldorf-2020/</guid>
+      <description>Der Open Data Day Düsseldorf 2020 (kurz: #ODDD20) findet auch im Jahr 2020 wieder in der Zentralbibliothek der Stadtbüchereien Düsseldorf statt. Wann genau das sein wird und was dort passiert, wird auf dieser Seite nach und nach ergänzt, in den monatlichen Treffen besprochen und auch über die Social Media Kanäle veröffentlicht.</description>
+    </item>
+    
+    <item>
+      <title>Termine</title>
+      <link>https://codefordus.github.io/termine/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://codefordus.github.io/termine/</guid>
+      <description>Wir treffen uns üblicherweise einmal im Monat, dabei hat sich in etwa der dritte Donnerstag im Monat (unser DatenDonnerstag) eingebürgert. Unsere Treffen sind völlig zwanglos. Es gibt kein striktes Programm, an das man sich halten müsste. Wir planen häufig Themen oder Inhalte ein, sind aber immer offen für spontane Ideen, Diskussionen oder Aktionen. Die Treffen sind natürlich kostenfrei. Geplante Inhalte versuchen wir in einem CodiMD festzuhalten, welches hier zu finden ist.</description>
+    </item>
+    
+    <item>
+      <title>Über das OK Lab Düsseldorf / Code for Düsseldorf</title>
+      <link>https://codefordus.github.io/ueber-uns/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://codefordus.github.io/ueber-uns/</guid>
+      <description>Das OK Lab Düsseldorf (oder auch: Code for Düsseldorf) ist eine lokale Gruppe von Menschen, die sich für offene Daten, offene Wissen, freie Software und weitere verwandte Themen interessieren, um damit ihre Stadt und damit ihr direktes Umfeld (weiter) zu entwickeln und Mehrwerte zu schaffen. Dieses Vorhaben kann in (interaktiven) Visualisierungen von Daten münden, in Datengeschichten aufgehen oder auch in Applikationen für das Web oder mobile Endgeräte, um nur ein paar Beispiele zu nennen.</description>
+    </item>
+    
+  </channel>
+</rss>
