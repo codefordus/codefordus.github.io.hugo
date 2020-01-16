@@ -12,8 +12,6 @@ install:
 
 script:
   - /snap/bin/hugo
-  - cd public
-  - ls -la
 
 deploy:
   repo: codefordus/codefordus.github.io
