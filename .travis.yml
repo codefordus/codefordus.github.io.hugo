@@ -12,6 +12,8 @@ install:
 
 script:
   - /snap/bin/hugo
+  - cd public
+  - ls -la
 
 deploy:
   repo: codefordus/codefordus.github.io
@@ -20,6 +22,5 @@ deploy:
   skip_cleanup: true
   github_token: $GITHUB_TOKEN
   keep_history: true
-  local_dir: public
   on:
     branch: master
