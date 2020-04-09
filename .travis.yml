@@ -21,6 +21,7 @@ deploy:
   provider: pages
   skip_cleanup: true
   github_token: $GITHUB_TOKEN
+  fqdn: codeforduesseldorf.de
   keep_history: true
   edge: true
   on:
