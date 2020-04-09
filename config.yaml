@@ -89,10 +89,10 @@ params:
       text: Technische Konzepte können Engagement und Beteiligung von Bürgern fördern, beispielsweise durch entsprechende Kommunikationsplattformen, bessere öffentliche Infrastrukturen und technikbasierte Verbesserungen des Allgemeinwohls.
       icon: mobile-feed
   section_meetup:
-    date: 27. Februar 2020
-    place: Library Lab in der Zentralbibliothek der Stadtbüchereien Düsseldorf
+    date: 16. April 2020
+    place: Library Lab in der Zentralbibliothek der Stadtbüchereien Düsseldorf (ggf. virtuell aufgrund von Corona, Ankündigung folgt)
     timeslot: 18:00 - 20:00 Uhr
-    meetup_link: https://www.meetup.com/de-DE/OK-Lab-Dusseldorf/events/267916666/
+    meetup_link: https://www.meetup.com/de-DE/OK-Lab-Dusseldorf/events/267916816/
   footer:
     logo: /img/CFD_logo_32.svg
     # Social Media Title
