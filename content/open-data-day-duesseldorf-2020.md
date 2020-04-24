@@ -3,6 +3,6 @@ title: Open Data Day Düsseldorf 2020 (#ODDD20)
 include_footer: true
 ---
 
-Der Open Data Day Düsseldorf 2020 (kurz: #ODDD20) findet auch im Jahr 2020 wieder in der Zentralbibliothek der Stadtbüchereien Düsseldorf statt. Termin ist in diesem Jahr Freitag, der 05. Juni 2020, zeitlich wird das Programm von etwa 13 bis 18 Uhr stattfinden. Was dort passiert, wird auf dieser Seite nach und nach ergänzt, in den monatlichen Treffen besprochen und auch über die Social Media Kanäle veröffentlicht.
+Aufgrund der Pandemie kann der Open Data Day Düsseldorf 2020 (kurz: #ODDD20) leider nicht durchgeführt werden und wird auch nicht verschoben. Alle Planungen gehen dann in den Open Data Day Düsseldorf 2021 (#ODDD21) auf und sind nicht verloren.
 
-Wenn Du Anregungen oder Vorschläge für Inhalte hast, melde dich bei uns oder beim Open Data Team der Stadt Düsseldorf.
+Wenn Du bereits jetzt schon Anregungen oder Vorschläge für Inhalte hast, melde dich bei uns und / oder beim Open Data Team der Stadt Düsseldorf.
