@@ -24,9 +24,10 @@ Link zu unserem MeetUp-Profil: <a href="https://www.meetup.com/de-DE/OK-Lab-Duss
 Die geplanten Termine für 2020:
 * 16. Januar 2020
 * 27. Februar 2020
-* 19. März 2020
-* 16. April 2020
-* 14. Mai 2020
+* ~~19. März 2020~~
+* ~~16. April 2020~~
+* ~~14. Mai 2020~~
+* 19. Mai 2020 (online, URL: <a href="https://jitsi.publicplan.cloud/CodeForDuesseldorf" target=_blank>Jitsi-Raum</a>)
 * 18. Juni 2020
 * 16. Juli 2020
 * 20. August 2020
@@ -34,4 +35,3 @@ Die geplanten Termine für 2020:
 * 15. Oktober 2020
 * 19. November 2020
 * 17. Dezember 2020
-
