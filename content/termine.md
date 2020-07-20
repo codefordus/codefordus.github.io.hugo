@@ -31,7 +31,7 @@ Die geplanten Termine für 2020:
 * ~~18. Juni 2020~~ (ausgefallen)
 * ~~02. Juli 2020~~ (Sommerpause)
 * ~~16. Juli 2020~~ (Sommerpause)
-* 20. August 2020 (online, URL: <a href="https://jitsi.publicplan.cloud/CodeForDuesseldorf" target=_blank>Jitsi-Raum</a>
+* 20. August 2020 (online, URL: <a href="https://jitsi.publicplan.cloud/CodeForDuesseldorf" target=_blank>Jitsi-Raum</a>)
 * 17. September 2020
 * 15. Oktober 2020
 * 19. November 2020
