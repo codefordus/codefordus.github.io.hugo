@@ -17,9 +17,12 @@ Von daher finden unsere Treffen ab Januar 2020 im Library Lab der Stadtbibliothe
 ### Wann treffen wir uns?
 
 Wir haben jeweils den Zeitrahmen von 18:00 bis ca. 20:00 Uhr reserviert.
-In der Regel werden die Treffen über MeetUp angekündigt und wir freuen uns, wenn dort auch Anmeldungen stattfinden. Dann wissen wir in etwa, mit vielen Teilnehmer\*innen wir rechnen können.
+In der Regel werden die Treffen über Get together angekündigt und wir freuen uns, wenn dort auch Anmeldungen stattfinden. Dann wissen wir in etwa, mit vielen Teilnehmer\*innen wir rechnen können.
 
-Link zu unserem MeetUp-Profil: <a href="https://www.meetup.com/de-DE/OK-Lab-Dusseldorf" target=_blank>OK Lab Düsseldorf auf MeetUp</a>
+Link zu unserem Get together Profil: <a href="https://gettogether.community/code-for-d%C3%BCsseldorf/" target=_blank>OK Lab Düsseldorf auf Get together</a>
+
+Für die zweite Jahreshälfte 2020 haben wir mit den <a href="https://edulabs.de/projects/edulabsNRW/" target=_blank>edulabs NRW</a> vereinbart, unsere Treffen zusammenzulegen und unsere Kräfte zu bündeln.
+Das Get together Profil dazu: <a href="https://gettogether.community/events/6992/ok-lab-and-edulabs/" target=_blank>OK Lab Düsseldorf & edulabs NRW</a>
 
 Die geplanten Termine für 2020:
 * 16. Januar 2020
@@ -33,6 +36,6 @@ Die geplanten Termine für 2020:
 * ~~16. Juli 2020~~ (Sommerpause)
 * 20. August 2020 (online, URL: <a href="https://jitsi.publicplan.cloud/CodeForDuesseldorf" target=_blank>Jitsi-Raum</a>)
 * 17. September 2020
-* 15. Oktober 2020
-* 19. November 2020
-* 17. Dezember 2020
+
+Die aktuellen Zeiten sind schwierig und beschäftigen uns alle mit anderen Dingen.<br/>
+Wir haben uns daher im Oktober 2020 entschieden, frühzeitig in "Winterschlaf" zu gehen und uns erst wieder aktiv zum Open Data Day im März 2021 zurückzumelden. In der Zeit bis dahin sind wir weiterhin über alle üblichen Wege erreichbar und existieren auch weiterhin; nur eben ohne Wirkung nach außen und ohne dass Treffen - auch nicht digital - stattfinden werden. Wir nutzen diese Phase, um einmal über unsere Aktivitäten zu sinnieren und in uns zu gehen was die Lab betrifft.
