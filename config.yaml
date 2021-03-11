@@ -89,8 +89,8 @@ params:
       text: Technische Konzepte können Engagement und Beteiligung von Bürgern fördern, beispielsweise durch entsprechende Kommunikationsplattformen, bessere öffentliche Infrastrukturen und technikbasierte Verbesserungen des Allgemeinwohls.
       icon: mobile-feed
   section_meetup:
-    date: Frühjahr 2021 (s. Info auf Seite Termine)
-    place: Library Lab in der Zentralbibliothek der Stadtbüchereien Düsseldorf (ggf. virtuell)
+    date: Donnerstag, 11.03.2021
+    place: Jitsi-Instanz von publicplan
     timeslot: 18:00 - 20:00 Uhr
     meetup_link: https://gettogether.community/code-for-d%C3%BCsseldorf/
   footer:
