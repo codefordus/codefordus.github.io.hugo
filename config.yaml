@@ -52,8 +52,8 @@ params:
     url: /projekte/
   - title: Termine
     url: /termine/
-  - title: Open Data Day 2020
-    url: /open-data-day-duesseldorf-2020/
+  - title: Open Data Day 2021
+    url: /open-data-day-duesseldorf-2021/
   - title: Mitmachen
     sublinks:
     - title: als Entwickler*in / Designer*in
