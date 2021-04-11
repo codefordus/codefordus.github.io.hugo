@@ -31,7 +31,7 @@ include_footer: true
 </dl>
 <dl>
     <dt>Community & Projektmanagement:</dt>
-    <dd><a href="mailto:michael.peters@okfn.de">Michael Peters</a> </dd>
+    <dd><a href="mailto:info@codefor.de">info@codefor.de</a> </dd>
 </dl>
 <dl>
     <dt>Kontakt zu unserem Lab in Düsseldorf:</dt>
