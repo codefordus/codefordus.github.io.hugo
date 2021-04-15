@@ -28,7 +28,7 @@ Das Get together Profil dazu: <a href="https://gettogether.community/events/6992
 Die geplanten Termine für 2021:
 * 06. März 2021 (Open Data Day, <a href="https://oknrw.de/veranstaltungen/offene-kommunen-nrw-2021-opendataday/" target=_blank>OKNRW Open Data Day ´21</a>)
 * 11. März 2021
-* 15. April 2021
+* 22. April 2021
 * 20. Mai 2021
 * 17. Juni 2021
 * Juli/August: ggf. Sommerpause
