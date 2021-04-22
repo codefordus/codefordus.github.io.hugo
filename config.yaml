@@ -90,7 +90,7 @@ params:
       icon: mobile-feed
   section_meetup:
     date: Donnerstag, 22.04.2021
-    place: meet.jit.si (Raum: https://meet.jit.si/OK-Lab-Duesseldorf)
+    place: meet.jit.si (https://meet.jit.si/OK-Lab-Duesseldorf)
     timeslot: 18:00 - 20:00 Uhr
     meetup_link: https://gettogether.community/code-for-d%C3%BCsseldorf/
   footer:
