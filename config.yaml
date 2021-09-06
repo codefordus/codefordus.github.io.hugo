@@ -52,6 +52,8 @@ params:
     url: /projekte/
   - title: Termine
     url: /termine/
+  - title: Coding da Vinci 2021
+    url: /coding-da-vinci-2021/
   - title: Open Data Day 2021
     url: /open-data-day-duesseldorf-2021/
   - title: Mitmachen
@@ -89,7 +91,7 @@ params:
       text: Technische Konzepte können Engagement und Beteiligung von Bürgern fördern, beispielsweise durch entsprechende Kommunikationsplattformen, bessere öffentliche Infrastrukturen und technikbasierte Verbesserungen des Allgemeinwohls.
       icon: mobile-feed
   section_meetup:
-    date: Donnerstag, 22.04.2021
+    date: wird noch angekündigt
     place: meet.jit.si (https://meet.jit.si/OK-Lab-Duesseldorf)
     timeslot: 18:00 - 20:00 Uhr
     meetup_link: https://gettogether.community/code-for-d%C3%BCsseldorf/
